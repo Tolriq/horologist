@@ -148,6 +148,32 @@ internal fun BrowseScreenScope.PlaylistDownloadBrowseScreenContent(
                 icon = Icons.Default.Settings,
                 onClick = onSettingsClick,
             ),
+            BrowseScreenPlaylistsSectionButton(
+                textId = R.string.horologist_browse_library_settings_button,
+                icon = Icons.Default.Settings,
+                onClick = onSettingsClick,
+            ),
+            BrowseScreenPlaylistsSectionButton(
+                textId = R.string.horologist_browse_library_settings_button,
+                icon = Icons.Default.Settings,
+                onClick = onSettingsClick,
+            ),
+            BrowseScreenPlaylistsSectionButton(
+                textId = R.string.horologist_browse_library_settings_button,
+                icon = Icons.Default.Settings,
+                onClick = onSettingsClick,
+            ),
+            BrowseScreenPlaylistsSectionButton(
+                textId = R.string.horologist_browse_library_settings_button,
+                icon = Icons.Default.Settings,
+                onClick = onSettingsClick,
+            ),
+            BrowseScreenPlaylistsSectionButton(
+                textId = R.string.horologist_browse_library_settings_button,
+                icon = Icons.Default.Settings,
+                onClick = onSettingsClick,
+            ),
+
         ),
     )
 }
